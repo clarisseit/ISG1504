@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+.h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+}
+.p {
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  margin-top: 19px;
+}
+.flex {
+  display: flex;
+}
+.ul1 {
+  margin-left: 250px;
+  margin-top: 0px;
+  padding: 30px;
+}
+.ul2 {
+  margin-left: 250px;
+  margin-top: 0px;
+  padding: 30px;
+  gap: 12px;
+}
+.title {
+  color: red;
+}
